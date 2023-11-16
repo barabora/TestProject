@@ -27,6 +27,7 @@ struct ContentView: View {
             Text("New22 Branch project 1")
             Text("All New Branch project 1")
             Text("All2 New Branch project 1")
+            Text("Remote All New Branch project 1")
         }
         .padding()
     }

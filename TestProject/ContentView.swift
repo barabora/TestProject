@@ -22,6 +22,7 @@ struct ContentView: View {
             Text("4444")
             Text("5555")
             Text("New Branch project 1")
+            Text("New Branch project 2")
         }
         .padding()
     }
